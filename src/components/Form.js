@@ -45,7 +45,6 @@ function Form({crearCita}) {
         // Asignar id para cada Cita
 
         cita.id= uuid();
-        console.log(cita)
 
         // Crear cita
 
